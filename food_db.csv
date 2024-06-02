@@ -1,0 +1,71 @@
+comida;calorias;categoria
+Banana;89;Frutas
+Maçã;52;Frutas
+Laranja;47;Frutas
+Manga;60;Frutas
+Uvas;69;Frutas
+Melancia;30;Frutas
+Morango;32;Frutas
+Pera;57;Frutas
+Abacaxi;50;Frutas
+Mamão;43;Frutas
+Batata;77;Legumes e Vegetais
+Cenoura;41;Legumes e Vegetais
+Tomate;18;Legumes e Vegetais
+Brócolis;34;Legumes e Vegetais
+Alface;15;Legumes e Vegetais
+Pepino;16;Legumes e Vegetais
+Espinafre;23;Legumes e Vegetais
+Abobrinha;17;Legumes e Vegetais
+Couve-flor;25;Legumes e Vegetais
+Berinjela;25;Legumes e Vegetais
+Frango grelhado;165;Carnes e Proteínas
+Carne bovina (bife grelhado);250;Carnes e Proteínas
+Peito de peru;104;Carnes e Proteínas
+Salmão;206;Carnes e Proteínas
+Ovos (cozidos);155;Carnes e Proteínas
+Tofu;76;Carnes e Proteínas
+Lentilhas;116;Carnes e Proteínas
+Grão-de-bico;164;Carnes e Proteínas
+Feijão preto;132;Carnes e Proteínas
+Amêndoas;576;Carnes e Proteínas
+Leite integral;61;Laticínios
+Queijo cheddar;403;Laticínios
+Iogurte natural;61;Laticínios
+Manteiga;717;Laticínios
+Queijo cottage;98;Laticínios
+Leite desnatado;35;Laticínios
+Queijo mussarela;280;Laticínios
+Requeijão;257;Laticínios
+Creme de leite;292;Laticínios
+Iogurte grego;59;Laticínios
+Arroz branco;130;Grãos e Cereais
+Arroz integral;111;Grãos e Cereais
+Aveia;389;Grãos e Cereais
+Pão integral;252;Grãos e Cereais
+Pão branco;265;Grãos e Cereais
+Quinoa;120;Grãos e Cereais
+Cuscuz;112;Grãos e Cereais
+Macarrão cozido;157;Grãos e Cereais
+Granola;471;Grãos e Cereais
+Milho cozido;96;Grãos e Cereais
+Chocolate ao leite;535;Doces e Lanches
+Sorvete de baunilha;207;Doces e Lanches
+Biscoito recheado;502;Doces e Lanches
+Pipoca (com manteiga);531;Doces e Lanches
+Bolo de chocolate;367;Doces e Lanches
+Brigadeiro;381;Doces e Lanches
+Torta de maçã;237;Doces e Lanches
+Pudim de leite;147;Doces e Lanches
+Biscoito de polvilho;418;Doces e Lanches
+Goiabada;296;Doces e Lanches
+Refrigerante (cola);42;Bebidas
+Suco de laranja;45;Bebidas
+Cerveja;43;Bebidas
+Vinho tinto;85;Bebidas
+Café (sem açúcar);2;Bebidas
+Chá (sem açúcar);1;Bebidas
+Água de coco;19;Bebidas
+Suco de maçã;46;Bebidas
+Leite de soja;54;Bebidas
+Achocolatado;77;Bebidas
